@@ -7,3 +7,8 @@ for(countDown; countDown > 0 ; countDown--){
 // Uncomment the below line to check your work
 console.log(countDown); // -> should print 0;
 
+// another method 
+for(let i=1;i<10;i++){
+    countDown --;
+}
+console.log(countDown)
