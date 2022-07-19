@@ -11,4 +11,4 @@ console.log(countDown); // -> should print 0;
 for(let i=1;i<10;i++){
     countDown --;
 }
-console.log(countDown)
+console.log(countDown);
